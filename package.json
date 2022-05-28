@@ -1,0 +1,19 @@
+{
+  "name": "starwars_bingo",
+  "version": "1.0.0",
+  "description": "bingo for all of our starwars viewing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zane-Gilfillan/starwars_bingo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zane-Gilfillan/starwars_bingo/issues"
+  },
+  "homepage": "https://github.com/Zane-Gilfillan/starwars_bingo#readme"
+}
