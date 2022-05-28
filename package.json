@@ -4,6 +4,7 @@
   "description": "bingo for all of our starwars viewing",
   "main": "index.js",
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
